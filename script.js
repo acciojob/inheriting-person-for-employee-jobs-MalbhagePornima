@@ -26,5 +26,5 @@ employee.greet();
 employee.jobGreet();
 
 // Do not change code below this line
-//window.Person = Person;
-//window.Employee = Employee;
+window.Person = Person;
+window.Employee = Employee;
